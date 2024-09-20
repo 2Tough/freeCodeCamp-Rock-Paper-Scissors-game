@@ -1,2 +1,2 @@
-# freecodecamp-Rock-Paper-Scissors-game
+# freeCodeCamp-Rock-Paper-Scissors-game
 A simple Rock, Paper, Scissors game
